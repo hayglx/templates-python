@@ -22,3 +22,4 @@ def strStr(self, haystack: str, needle: str) -> int:
             j=n[j-1]
     return -1 if j!=len(needle) else i-j
                  
+#leetcode 28
